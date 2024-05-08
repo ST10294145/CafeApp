@@ -1,0 +1,16 @@
+\\Mac\Home\Documents\Progamming Projects\VS C#\CafeApp\CafeApp\bin\Debug\net8.0-windows\CafeApp.exe
+\\Mac\Home\Documents\Progamming Projects\VS C#\CafeApp\CafeApp\bin\Debug\net8.0-windows\CafeApp.deps.json
+\\Mac\Home\Documents\Progamming Projects\VS C#\CafeApp\CafeApp\bin\Debug\net8.0-windows\CafeApp.runtimeconfig.json
+\\Mac\Home\Documents\Progamming Projects\VS C#\CafeApp\CafeApp\bin\Debug\net8.0-windows\CafeApp.dll
+\\Mac\Home\Documents\Progamming Projects\VS C#\CafeApp\CafeApp\bin\Debug\net8.0-windows\CafeApp.pdb
+\\Mac\Home\Documents\Progamming Projects\VS C#\CafeApp\CafeApp\obj\Debug\net8.0-windows\CafeApp.Form1.resources
+\\Mac\Home\Documents\Progamming Projects\VS C#\CafeApp\CafeApp\obj\Debug\net8.0-windows\CafeApp.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Progamming Projects\VS C#\CafeApp\CafeApp\obj\Debug\net8.0-windows\CafeApp.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\Progamming Projects\VS C#\CafeApp\CafeApp\obj\Debug\net8.0-windows\CafeApp.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\Progamming Projects\VS C#\CafeApp\CafeApp\obj\Debug\net8.0-windows\CafeApp.AssemblyInfo.cs
+\\Mac\Home\Documents\Progamming Projects\VS C#\CafeApp\CafeApp\obj\Debug\net8.0-windows\CafeApp.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Progamming Projects\VS C#\CafeApp\CafeApp\obj\Debug\net8.0-windows\CafeApp.dll
+\\Mac\Home\Documents\Progamming Projects\VS C#\CafeApp\CafeApp\obj\Debug\net8.0-windows\refint\CafeApp.dll
+\\Mac\Home\Documents\Progamming Projects\VS C#\CafeApp\CafeApp\obj\Debug\net8.0-windows\CafeApp.pdb
+\\Mac\Home\Documents\Progamming Projects\VS C#\CafeApp\CafeApp\obj\Debug\net8.0-windows\CafeApp.genruntimeconfig.cache
+\\Mac\Home\Documents\Progamming Projects\VS C#\CafeApp\CafeApp\obj\Debug\net8.0-windows\ref\CafeApp.dll
